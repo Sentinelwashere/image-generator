@@ -1,0 +1,16 @@
+{
+  "name": "void-image-genrator",
+  "version": "0.0.1",
+  "description": "Replicate.com a giderek github hesabınızla oturum açın sonra hesap kısmına girip apı keyi kopyalayıp yerine yapıştırın",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "sentinel",
+  "license": "MIT",
+  "dependencies": {
+    "djs-commander": "^0.0.45",
+    "replicate": "^0.11.1"
+  }
+}
