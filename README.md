@@ -3,4 +3,4 @@ kopyalayıp yerine yapıştırın
 
 Çalıştırmak için npm run start yazmanız yeterli
 
-                  Void - Sentinel#7777
+                  Void - Sentinel#0003
